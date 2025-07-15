@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["528140133408", 'LisaBot 💜😻', true], //LisaBot
+["528140133408", '𝕃𝕚𝕤𝕒𝔹𝕠𝕥💜', true], //𝕃𝕚𝕤𝕒𝔹𝕠𝕥
 ["528140133198"]]
 
 global.mods = []
@@ -93,16 +93,16 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["528140133408", 'Creator💻', 1], ]
+["528140133408", 'MontseLeal 💻', 1]]
 
-global.mail = '' // Add email
-global.desc = '' // Add short description (20 caractres max)
+global.mail = 'lealmontse56@gmail.com' // Add email
+global.desc = 'By Evelyn Ventas' // Add brief description (20 caractres max)
 global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se aplicará sólo si su whasapp no tiene descripción)
-global.country = '' // Add country, example: 🇪🇨
+global.country = '🇲🇽' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `╭ LisaBot 😻\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @\n╰━━━━━━━━•` //"𝕃𝕚𝕤𝕒𝔹𝕠𝕥 😻"
-global.author = ` ╭ MontseLeal ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ Montse Leal\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ @\n ╰━━━━━━━━•` //"𝕃𝕒𝕝𝕚𝕤𝕒"
+global.packname = `╭ 𝕃𝕚𝕤𝕒𝔹𝕠𝕥💜\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @\n╰━━━━━━━━•` //"𝕃𝕚𝕤𝕒𝔹𝕠𝕥"
+global.author = ` ╭ Evelyn Ventas\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ Montse Leal\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ \n ╰━━━━━━━━•` //"𝕃𝕚𝕤𝕒𝔹𝕠𝕥"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -137,9 +137,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝕃𝕚𝕤𝕒𝔹𝕠𝕥 : 𝕃𝕒𝕝𝕚𝕤𝕒"
-global.igfg = "𝕃𝕚𝕤𝕒𝔹𝕠𝕥"
-global.nomorown = "528140133198"
+global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.nomorown = "593993684821"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
