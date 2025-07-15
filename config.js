@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["528140133408", '𝕃𝕚𝕤𝕒𝔹𝕠𝕥 💜😻', true], //LisaBot
+["528140133408", 'LisaBot 💜😻', true], //LisaBot
 ["528140133198"]]
 
 global.mods = []
@@ -93,8 +93,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["593968263524", 'Creator💻', 1], 
-["528140133198"]]
+["528140133408", 'Creator💻', 1], ]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -102,8 +101,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `╭ 𝕃𝕚𝕤𝕒𝔹𝕠𝕥 😻\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @\n╰━━━━━━━━•` //"𝕃𝕚𝕤𝕒𝔹𝕠𝕥 😻"
-global.author = ` ╭ 𝔐𝔬𝔫𝔱𝔰𝔢𝔏𝔢𝔞𝔩 ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ Montse Leal\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ @\n ╰━━━━━━━━•` //"𝕃𝕒𝕝𝕚𝕤𝕒"
+global.packname = `╭ LisaBot 😻\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @\n╰━━━━━━━━•` //"𝕃𝕚𝕤𝕒𝔹𝕠𝕥 😻"
+global.author = ` ╭ MontseLeal ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ Montse Leal\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ @\n ╰━━━━━━━━•` //"𝕃𝕒𝕝𝕚𝕤𝕒"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
